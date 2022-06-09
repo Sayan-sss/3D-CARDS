@@ -1,1 +1,1 @@
-Animated 3d cards using CSS
+3d cards
